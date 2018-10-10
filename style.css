@@ -1,0 +1,64 @@
+.ALL{
+  margin-top:100px;
+  font-family:sans-serif;
+  alignment: center;
+  background-color:#fff7e0;
+
+}
+
+.title{
+  color:#990000;
+  font-family:serif;
+  font-size:60pt;
+}
+.Age{
+  font-size:14pt;
+  margin-bottom:0px;;
+}
+.hometown{
+  font-size:14pt;
+  margin-left:40px;
+  margin-top:0px;
+  border:5px;
+}
+
+.sum{
+  color:#0b2b4f;
+}
+
+.bio{
+  margin-left:15%;
+  margin-right:15%;
+  text-align:center;
+  position:relative;
+}
+
+.ig{
+  border-radius:50%;
+  margin-left:50px;
+  margin-right:0px;
+  width:15%
+}
+
+.rat{
+  border-radius:50%;
+  alignment:right;
+  margin-right:50px;
+  width:15vw;
+  height:15vw;
+  
+}
+
+.list{
+  list-style-type:none;
+  align:center;
+  font-size:14pt;
+}
+
+.sw{
+  margin -top:20px;
+}
+
+.bd{
+  margin-top:20px;
+}
