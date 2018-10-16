@@ -46,7 +46,7 @@
 
 .rat{
   border-radius:50%;
-  align:right;
+  align-content:right;
   margin-right:50px;
   width:15vw;
   height:15vw;  
