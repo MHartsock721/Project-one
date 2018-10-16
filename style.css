@@ -54,9 +54,9 @@
 .rat{
   border-radius:50%;
   align:right;
-  margin-left:100px;
+  margin-left:auto;
   padding:50px;
-  margin-bottom:auto;
+  margin-bottom:100px;
   width:15vw;
   height:15vw;
 }
