@@ -4,8 +4,10 @@
   alignment: center;
   background-color:#fff7e0;
 }
-.bb{
-  width:350px;}
+
+#bb{
+  width:350px;
+  allign:center;}
 
 .title{
   color:#990000;
@@ -46,8 +48,7 @@
   alignment:right;
   margin-right:50px;
   width:15vw;
-  height:15vw;
-  
+  height:15vw;  
 }
 
 .list{
@@ -62,4 +63,8 @@
 
 .bd{
   margin-top:20px;
+}
+
+.img{
+  width:512;
 }
