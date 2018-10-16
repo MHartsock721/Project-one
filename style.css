@@ -9,7 +9,9 @@
 
 #bb{
   width:350px;
-  content-align:center;}
+  margin-left: auto;
+  margin-right:auto;
+  }
 
 .title{
   color:#990000;
