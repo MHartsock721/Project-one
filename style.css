@@ -53,11 +53,10 @@
 
 .rat{
   border-radius:50%;
-  align-content:right;
+  align:right;
   margin-right:50px;
   width:15vw;
   height:15vw;
-  right:0px;
 }
 
 .list{
