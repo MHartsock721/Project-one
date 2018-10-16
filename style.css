@@ -7,7 +7,7 @@
 
 #bb{
   width:350px;
-  align:center;}
+  content-align:center;}
 
 .title{
   color:#990000;
@@ -17,6 +17,7 @@
 .Age{
   font-size:14pt;
   margin-bottom:0px;
+  text-align:center;
 }
 
 .hometown{
@@ -24,6 +25,7 @@
   margin-left:40px;
   margin-top:0px;
   border:5px;
+  text-align:center;
 }
 
 .sum{
