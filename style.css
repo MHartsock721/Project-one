@@ -16,8 +16,9 @@
 }
 .Age{
   font-size:14pt;
-  margin-bottom:0px;;
+  margin-bottom:0px;
 }
+
 .hometown{
   font-size:14pt;
   margin-left:40px;
@@ -45,7 +46,7 @@
 
 .rat{
   border-radius:50%;
-  alignment:right;
+  align:right;
   margin-right:50px;
   width:15vw;
   height:15vw;  
